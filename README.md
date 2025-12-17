@@ -6,7 +6,7 @@ For this year's holiday season, the SUSE Packaging team has prepared a challenge
 
 For each field in the bingo card below find a package in openSUSE:Factory in the [OBS](https://build.opensuse.org) that fits the Requirement.
 
-Each package can only be used once. When you have at least one bingo you can open an issue in this repository and add the package names in the empty markdown table.
+Each package can only be used once. When you have at least one bingo (meaning one complete row, column or diagonal) you can open an issue in this repository and add the package names in the empty markdown table.
 You can leave the free space if you currently don't maintain any packages in openSUSE Factory, otherwise please enter your favourite package to maintain.
 
 > **_Hint:_** [This repo](https://github.com/bmwiedemann/openSUSE) and [this page](https://rpmlint.opensuse.org/) might come in handy for searching
